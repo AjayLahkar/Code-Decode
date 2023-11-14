@@ -1,3 +1,3 @@
 # Code Decode
 
-This python based Code Decode Programme.
+This is python based Code Decode Programme.
